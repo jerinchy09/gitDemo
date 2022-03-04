@@ -28,6 +28,11 @@ public class names {
 //		}
 //		System.out.println(count);
 //	}
+	
+	@Test
+	public void modifyingforGit() {
+		System.out.println("I have modified this for git demo purpose");
+	}
 	@Test
 	public void streamFilter() {
 		 
